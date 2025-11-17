@@ -95,7 +95,7 @@ struct HeaderView: View {
                     .font(.title)
                     .fontWeight(.semibold)
                 
-                Text("Text-to-Speech powered by Resemble AI")
+                Text("Text-to-Speech powered by MLX Audio")
                     .font(.caption)
                     .foregroundColor(.secondary)
             }

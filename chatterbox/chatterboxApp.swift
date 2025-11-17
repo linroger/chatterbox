@@ -40,7 +40,7 @@ struct chatterboxApp: App {
                         options: [
                             .applicationName: "Chatterbox",
                             .applicationVersion: "1.0",
-                            .credits: NSAttributedString(string: "Text-to-Speech powered by Resemble AI")
+                            .credits: NSAttributedString(string: "Text-to-Speech powered by MLX Audio on Apple Silicon")
                         ]
                     )
                 }
